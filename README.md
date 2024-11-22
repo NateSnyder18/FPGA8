@@ -1,5 +1,6 @@
 # FPGA8
 Modules:
+
 up_counter-this module counts to 4095 and then wraps to 0. Has an enable signal to control execution and a done signal to signify when it has counted.
 up_counter_tb-used to test up_counter
 
